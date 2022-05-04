@@ -13,6 +13,6 @@ setuptools.setup (
   long_description_content_type = 'text/markdown',
   classifiers=[
       "Programming Language :: Python :: 3",
-      "Operation System :: OS Independent",
+      "Operating System :: OS Independent",
   ],
 )
